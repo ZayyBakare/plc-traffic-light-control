@@ -1,7 +1,7 @@
 # PLC-Based Traffic Light Control System
 
 **Industrial automation training project | April–September 2025**  
-**Training:** Advanxis Technologies, as part of industrial training coordinated through BQUB Engineering Services Ltd., Port Harcourt, Nigeria  
+**Training:** Advanxis Technologies, Port Harcourt, Nigeria  
 **Tools:** Allen-Bradley MicroLogix training environment, RSLogix 500, ladder logic, timer-on-delay (TON), start/stop control and indicator lamps
 
 ## Overview
